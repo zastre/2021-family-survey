@@ -1,5 +1,7 @@
 ## Some movies for Christmas eve?
 
+Below is a list of ten movies, for each of which is (1) a "Rotten Tomatoes" link, (2) a link to a sensible reviewer, and (3) the service from which we can get the movie. Use the information here to fill in the survey that I've sent via menti.com.
+
 * "Summer of Soul (... Or, When the Revolution Could Not Be Televised)"
     * [Rotten Tomatoes](https://www.rottentomatoes.com/m/summer_of_soul)
     * [Roger Ebert](https://www.rogerebert.com/reviews/summer-of-soul-or-when-the-revolution-could-not-be-televised-2021)
