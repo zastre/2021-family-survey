@@ -27,11 +27,6 @@ Below is a list of ten movies, for each of which is (1) a "Rotten Tomatoes" link
     * [Roger Ebert](https://www.rogerebert.com/reviews/the-sparks-brothers-movie-review-2021)
     *  AppleTV
 
-* "The Dig"
-    * [Rotten Tomatoes](https://www.rottentomatoes.com/m/the_dig_2021)
-    * [Roger Ebert](https://www.rogerebert.com/reviews/the-dig-movie-review-2021)
-    * Netflix
-
 * "Oxygen"
     * [Rotten Tomatoes](https://www.rottentomatoes.com/m/oxygen_2021)
     * [Roger Ebert](https://www.rogerebert.com/reviews/oxygen-movie-review-2021)
@@ -47,7 +42,3 @@ Below is a list of ten movies, for each of which is (1) a "Rotten Tomatoes" link
     * [Slate](https://slate.com/culture/2021/02/space-sweepers-netflix-review-korea-movie-trans-robot.html)
     * Netflix
 
-* "Tenet"
-    * [Rotten Tomatoes](https://www.rottentomatoes.com/m/tenet)
-    * [Roger Ebert](https://www.rogerebert.com/reviews/tenet-movie-review-2020)
-    * AppleTV
